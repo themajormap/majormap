@@ -7,10 +7,10 @@ To Be Added
 ### 메이저맵 국내 서비스 https://www.majormap.net/
 백엔드 Git Repo: https://github.com/themajormap/majormap_server.git
 
-[프론트엔드 Git Repo (https://github.com/themajormap/majormap_web)]
+프론트엔드 Git Repo (https://github.com/themajormap/majormap_web.git
 
 ### 메이저맵 글로벌 서비스 (미국대학) http://www.major-map.com/
-Git Repo: https://github.com/themajormap/us_web
+Git Repo: https://github.com/themajormap/us_web.git
 
 ### 메이저맵 데이터 포털 http://nexus.major-map.com/
-Git Repo: https://github.com/themajormap/nexus
+Git Repo: https://github.com/themajormap/nexus.git
