@@ -16,7 +16,7 @@ To Be Added
 
 Git Repo: https://github.com/themajormap/us_web.git
 
-### [NX, NeXus] 메이저맵 데이터 포털 http://nexus.major-map.com/
+### [NX, NeXus] 메이저맵 데이터 포털
 국내 대학 및 미국 대학 커리큘럼 텍스트를 처리하여 벡터, 그래프 데이터를 생성해주는 파이썬 스크립트 패키지
 
 Git Repo: https://github.com/themajormap/nexus.git
